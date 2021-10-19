@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hackthon-grievance -cell.iml" filepath="$PROJECT_DIR$/hackthon-grievance -cell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hackathon-backend-spring-boot-grievance-cell.iml" filepath="$PROJECT_DIR$/.idea/hackathon-backend-spring-boot-grievance-cell.iml" />
     </modules>
   </component>
 </project>
